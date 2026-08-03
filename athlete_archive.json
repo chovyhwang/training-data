@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T07:36:13.205613",
+  "generated_at": "2026-08-03T08:08:19.953704",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
@@ -14,8 +14,7 @@
     "yearly_summary.json",
     "personal_bests.json",
     "power_curve.json",
-    "weight_history.json",
-    "archive/activity_search.csv"
+    "weight_history.json"
   ],
   "yearly_overview": [
     {
@@ -204,7 +203,7 @@
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-08-03T07:36:13.205613",
+    "generated_at": "2026-08-03T08:08:19.953704",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",

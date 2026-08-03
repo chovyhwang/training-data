@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03T07:36:15.615229",
+  "generated_at": "2026-08-03T08:08:22.676707",
   "schema_version": 1,
-  "version": "3.124-HH",
-  "script_hash": "2a08be486fc5",
+  "version": "3.123-HH",
+  "script_hash": "a3b8d82fba7f",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
