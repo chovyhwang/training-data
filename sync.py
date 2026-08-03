@@ -4,8 +4,6 @@ Intervals.icu → GitHub/Local JSON Export
 Exports training data for LLM access.
 Supports both automated GitHub sync and manual local export.
 
-Version 3.124-HH - Searchable one-row-per-activity CSV index added.
-
 Version 3.123-HH - Full individual activity archive added.
 
 Version 3.121-HH - Full archive outputs and fixed historical start date.
@@ -357,8 +355,6 @@ from typing import Dict, List, Optional, Tuple
 import base64
 import math
 import statistics
-import csv
-import io
 import hashlib
 import zipfile
 import tempfile
@@ -378,14 +374,13 @@ class IntervalsSync:
     HISTORY_FILE = "history.json"
     UPSTREAM_REPO = "CrankAddict/section-11"
     CHANGELOG_FILE = "changelog.json"
-    VERSION = "3.124-HH"
+    VERSION = "3.123-HH"
     INTERVALS_FILE = "intervals.json"
     ARCHIVE_FILE = "athlete_archive.json"
     YEARLY_SUMMARY_FILE = "yearly_summary.json"
     PERSONAL_BESTS_FILE = "personal_bests.json"
     POWER_CURVE_FILE = "power_curve.json"
     WEIGHT_HISTORY_FILE = "weight_history.json"
-    ACTIVITY_SEARCH_FILE = "archive/activity_search.csv"
     ROUTES_FILE = "routes.json"
 
     # Sport families eligible for interval-level data extraction.
@@ -7224,12 +7219,8 @@ class IntervalsSync:
         )
         for filename, payload in archive_outputs.items():
             out_path = self.data_dir / filename
-            out_path.parent.mkdir(parents=True, exist_ok=True)
-            with open(out_path, "w", newline="", encoding="utf-8") as f:
-                if isinstance(payload, str):
-                    f.write(payload)
-                else:
-                    json.dump(payload, f, indent=2, default=str)
+            with open(out_path, "w") as f:
+                json.dump(payload, f, indent=2, default=str)
             print(f"  ✅ {filename} saved")
         
         history = {
@@ -8089,32 +8080,11 @@ class IntervalsSync:
             "records": sorted(weight_history, key=lambda x: x["date"]),
             "note": "Only measured/imported weight records are included."
         }
-        # Search-optimized CSV: one activity per physical line.
-        # This is intentionally separate from athlete_archive.json so connected
-        # tools can fetch/filter the full lifetime list without a huge nested JSON.
-        search_fields = [
-            "date", "start_datetime", "id", "name", "type", "indoor",
-            "distance_km", "avg_speed_kph", "moving_seconds", "elapsed_seconds",
-            "elevation_m", "avg_power", "normalized_power", "avg_hr", "max_hr",
-            "avg_cadence", "intensity_pct", "variability_index", "decoupling_pct",
-            "efficiency_factor", "tss", "calories", "work_kj", "rpe", "feel"
-        ]
-        csv_buffer = io.StringIO()
-        csv_writer = csv.DictWriter(csv_buffer, fieldnames=search_fields, extrasaction="ignore")
-        csv_writer.writeheader()
-        for record in sorted(
-            activity_records,
-            key=lambda x: (x.get("start_datetime") or x.get("date") or ""),
-            reverse=True
-        ):
-            csv_writer.writerow({field: record.get(field, "") for field in search_fields})
-        activity_search_csv = csv_buffer.getvalue()
-
         archive = {
             "generated_at": generated_at, "source": "Intervals.icu API",
             "data_range": {"earliest": earliest_date, "latest": latest_date},
             "counts": {"activities": len(activity_records), "weight_records": len(weight_history), "years": len(yearly_rows)},
-            "files": [self.YEARLY_SUMMARY_FILE, self.PERSONAL_BESTS_FILE, self.POWER_CURVE_FILE, self.WEIGHT_HISTORY_FILE, self.ACTIVITY_SEARCH_FILE],
+            "files": [self.YEARLY_SUMMARY_FILE, self.PERSONAL_BESTS_FILE, self.POWER_CURVE_FILE, self.WEIGHT_HISTORY_FILE],
             "yearly_overview": yearly_rows,
             "personal_bests": personal_bests,
             # Full searchable lifetime activity list. Newest first.
@@ -8140,7 +8110,6 @@ class IntervalsSync:
             self.PERSONAL_BESTS_FILE: personal_bests,
             self.POWER_CURVE_FILE: power_curve,
             self.WEIGHT_HISTORY_FILE: weight_payload,
-            self.ACTIVITY_SEARCH_FILE: activity_search_csv,
         }
 
     def _build_history_summaries(self, daily_90d: List[Dict], weekly_180d: List[Dict],
