@@ -1,0 +1,190 @@
+{
+  "generated_at": "2026-08-03T07:06:28.632151",
+  "source": "Intervals.icu API",
+  "years": [
+    {
+      "year": 2019,
+      "activity_count": 99,
+      "total_hours": 94.7,
+      "total_tss": 5209.0,
+      "distance_km": 2416.3,
+      "elevation_m": 9513.0,
+      "ctl_peak": 44.8,
+      "atl_peak": 78.3,
+      "ftp_peak_reported": 180.0,
+      "eftp_peak_reported": 200.0,
+      "avg_weight_kg": null,
+      "longest_activity_hours": 3.29,
+      "max_activity_tss": 229.0,
+      "power_curve_watts": {
+        "5s": 606.0,
+        "30s": 442.0,
+        "1m": 318.0,
+        "5m": 241.0,
+        "20m": 186.0,
+        "60m": 161.0
+      }
+    },
+    {
+      "year": 2020,
+      "activity_count": 174,
+      "total_hours": 316.0,
+      "total_tss": 26419.0,
+      "distance_km": 8209.7,
+      "elevation_m": 30651.0,
+      "ctl_peak": 108.1,
+      "atl_peak": 161.1,
+      "ftp_peak_reported": 180.0,
+      "eftp_peak_reported": 231.0,
+      "avg_weight_kg": null,
+      "longest_activity_hours": 4.67,
+      "max_activity_tss": 567.0,
+      "power_curve_watts": {
+        "5s": 644.0,
+        "30s": 453.0,
+        "1m": 384.0,
+        "5m": 278.0,
+        "20m": 235.0,
+        "60m": 203.0
+      }
+    },
+    {
+      "year": 2021,
+      "activity_count": 185,
+      "total_hours": 339.9,
+      "total_tss": 30086.0,
+      "distance_km": 8492.1,
+      "elevation_m": 48884.0,
+      "ctl_peak": 128.2,
+      "atl_peak": 223.5,
+      "ftp_peak_reported": 180.0,
+      "eftp_peak_reported": 230.0,
+      "avg_weight_kg": null,
+      "longest_activity_hours": 8.28,
+      "max_activity_tss": 576.0,
+      "power_curve_watts": {
+        "5s": 644.0,
+        "30s": 449.0,
+        "1m": 381.0,
+        "5m": 284.0,
+        "20m": 227.0,
+        "60m": 200.0
+      }
+    },
+    {
+      "year": 2022,
+      "activity_count": 64,
+      "total_hours": 105.2,
+      "total_tss": 9416.0,
+      "distance_km": 2655.6,
+      "elevation_m": 16457.0,
+      "ctl_peak": 90.3,
+      "atl_peak": 126.4,
+      "ftp_peak_reported": 180.0,
+      "eftp_peak_reported": 231.0,
+      "avg_weight_kg": null,
+      "longest_activity_hours": 4.77,
+      "max_activity_tss": 553.0,
+      "power_curve_watts": {
+        "5s": 607.0,
+        "30s": 450.0,
+        "1m": 362.0,
+        "5m": 271.0,
+        "20m": 238.0,
+        "60m": 203.0
+      }
+    },
+    {
+      "year": 2023,
+      "activity_count": 3,
+      "total_hours": 5.6,
+      "total_tss": 432.0,
+      "distance_km": 135.6,
+      "elevation_m": 577.0,
+      "ctl_peak": 11.7,
+      "atl_peak": 28.2,
+      "ftp_peak_reported": 180.0,
+      "eftp_peak_reported": 174.0,
+      "avg_weight_kg": null,
+      "longest_activity_hours": 2.27,
+      "max_activity_tss": 186.0,
+      "power_curve_watts": {
+        "5s": 539.0,
+        "30s": 403.0,
+        "1m": 343.0,
+        "5m": 213.0,
+        "20m": 151.0,
+        "60m": 129.0
+      }
+    },
+    {
+      "year": 2024,
+      "activity_count": 4,
+      "total_hours": 3.7,
+      "total_tss": 160.0,
+      "distance_km": 102.1,
+      "elevation_m": 544.0,
+      "ctl_peak": 3.4,
+      "atl_peak": 13.6,
+      "ftp_peak_reported": 180.0,
+      "eftp_peak_reported": 137.0,
+      "avg_weight_kg": null,
+      "longest_activity_hours": 1.0,
+      "max_activity_tss": 50.0,
+      "power_curve_watts": {
+        "5s": 340.0,
+        "30s": 231.0,
+        "1m": 200.0,
+        "5m": 161.0,
+        "20m": 136.0,
+        "60m": 111.0
+      }
+    },
+    {
+      "year": 2025,
+      "activity_count": 0,
+      "total_hours": 0.0,
+      "total_tss": 0.0,
+      "distance_km": 0.0,
+      "elevation_m": 0.0,
+      "ctl_peak": 0.0,
+      "atl_peak": 0.0,
+      "ftp_peak_reported": null,
+      "eftp_peak_reported": null,
+      "avg_weight_kg": null,
+      "longest_activity_hours": 0.0,
+      "max_activity_tss": null,
+      "power_curve_watts": {
+        "5s": null,
+        "30s": null,
+        "1m": null,
+        "5m": null,
+        "20m": null,
+        "60m": null
+      }
+    },
+    {
+      "year": 2026,
+      "activity_count": 19,
+      "total_hours": 18.8,
+      "total_tss": 927.0,
+      "distance_km": 459.2,
+      "elevation_m": 1182.0,
+      "ctl_peak": 11.8,
+      "atl_peak": 30.9,
+      "ftp_peak_reported": 180.0,
+      "eftp_peak_reported": 158.0,
+      "avg_weight_kg": null,
+      "longest_activity_hours": 2.3,
+      "max_activity_tss": 156.0,
+      "power_curve_watts": {
+        "5s": 521.0,
+        "30s": 365.0,
+        "1m": 299.0,
+        "5m": 183.0,
+        "20m": 155.0,
+        "60m": 114.0
+      }
+    }
+  ]
+}

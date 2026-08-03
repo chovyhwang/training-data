@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-08-03T07:06:28.632151",
+  "source": "Intervals.icu API",
+  "data_range": {
+    "earliest": "2019-06-03",
+    "latest": "2026-07-27"
+  },
+  "power": {
+    "5s": 644.0,
+    "30s": 453.0,
+    "1m": 384.0,
+    "5m": 284.0,
+    "20m": 238.0,
+    "60m": 203.0
+  },
+  "power_note": "Measured MMP anchors from Intervals.icu power-curves; null means unavailable.",
+  "ctl_peak": 128.22955,
+  "atl_peak": 223.45314,
+  "ftp_peak_reported": 180.0,
+  "eftp_peak_reported": 231.0,
+  "activity_tss_peak": 576.0,
+  "longest_activity_seconds": 29794
+}
