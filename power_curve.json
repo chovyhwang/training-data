@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T18:06:35.450225",
+  "generated_at": "2026-08-14T03:17:03.010471",
   "source": "Intervals.icu power-curves API",
   "curve_error": null,
   "anchors_seconds": {
@@ -13,7 +13,7 @@
   "curves": {
     "all_time": {
       "start": "2019-06-03",
-      "end": "2026-08-12",
+      "end": "2026-08-14",
       "anchors_watts": {
         "5s": 644.0,
         "30s": 453.0,
