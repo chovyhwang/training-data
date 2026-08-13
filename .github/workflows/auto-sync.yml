@@ -2,7 +2,7 @@ name: Auto-Sync Intervals.icu Data
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '3,8,13,18,23,28,33,38,43,48,53,58 * * * *'
   workflow_dispatch:
 
 permissions:
