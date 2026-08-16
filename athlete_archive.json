@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T22:35:26.203582",
+  "generated_at": "2026-08-17T01:59:42.409660",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-08-14"
+    "latest": "2026-08-17"
   },
   "counts": {
-    "activities": 552,
+    "activities": 554,
     "weight_records": 0,
     "years": 8
   },
@@ -180,12 +180,12 @@
     },
     {
       "year": 2026,
-      "activity_count": 23,
-      "total_hours": 21.5,
-      "total_tss": 1044.0,
-      "distance_km": 534.9,
-      "elevation_m": 1307.0,
-      "ctl_peak": 11.8,
+      "activity_count": 25,
+      "total_hours": 23.4,
+      "total_tss": 1144.0,
+      "distance_km": 590.7,
+      "elevation_m": 1395.0,
+      "ctl_peak": 12.0,
       "atl_peak": 30.9,
       "ftp_peak_reported": 180.0,
       "eftp_peak_reported": 158.0,
@@ -198,16 +198,16 @@
         "1m": 299.0,
         "5m": 184.0,
         "20m": 155.0,
-        "60m": 114.0
+        "60m": 126.0
       }
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-08-14T22:35:26.203582",
+    "generated_at": "2026-08-17T01:59:42.409660",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",
-      "latest": "2026-08-14"
+      "latest": "2026-08-17"
     },
     "power": {
       "5s": 644.0,
@@ -226,6 +226,148 @@
     "longest_activity_seconds": 29794
   },
   "activities": [
+    {
+      "date": "2026-08-17",
+      "start_datetime": "2026-08-17T00:43:27",
+      "id": "i176498597",
+      "name": "Zwift - Tempo",
+      "description": "\ud83d\uddfa\ufe0f Tempus Fugit in Watopia\n\n\u25fe\ufe0f 8\uc6d4 17\uc77c \ud6c8\ub828\uc0c1\ud0dc \u25fe\ufe0f\n\ud83d\ude10 \uc800\ubd80\ud558 \ud14c\uc774\ud37c\ub9c1 (236)\n\ud83c\udf33 \uccb4\ub825 22, \ud53c\ub85c 25, \uade0\ud615 -3\n\n\u25fe\ufe0f \ub77c\uc774\ub529 \uc885\ud569 \u25fe\ufe0f\n\ud83d\udc17 \uc2a4\uc717\uc2a4\ud31f \ud6c8\ub828 (\uc911\uac15\ub3c4)\n\ud83c\udff7\ufe0f \uc720\uc0b0\uc18c \uc9c0\uc18d\uc8fc \uac15\ud654, \uc2dc\uac04\ub300\ube44\ud6a8\uc728, \ud0c4\uc218\ud654\ubb3c\ub300\uc0ac\n\ud83d\udcca R\ud30c\uc6cc 129, \uac15\ub3c4 0.79, \ud6c8\ub828\ub7c9 70\n\u2728 \ud68c\ubcf5\uc2dc\uac04 22 \uc2dc\uac04\n\n\u25fe\ufe0f \ud53c\ud06c\ud30c\uc6cc \ubd84\uc11d \u25fe\ufe0f\n\u26a1 15\ucd08 151w (31%) \n\u26a1 1\ubd84 150w (50%) \n\u26a1 2\ubd84 150w (59%) \n\u26a1 5\ubd84 150w (81%) \n\u26a1 10\ubd84 138w (79%) \n\u26a1 20\ubd84 135w (86%) \n\u26a1 40\ubd84 131w (106%) \ud83c\udfc6 PR\n\u26a1 1\uc2dc\uac04 126w (110%) \ud83c\udfc6 PR\n\n\u25fe\ufe0f \ud30c\uc6cc\uc601\uc5ed \ubd84\uc11d \u25fe\ufe0f\n\u26aa 1\uc601\uc5ed 12% (-6%)\n\ud83d\udd35 2\uc601\uc5ed 28% (+5%)\n\ud83d\udfe2 3\uc601\uc5ed 27% (+4%)\n\ud83d\udfe1 4\uc601\uc5ed 32% (+18%)\n\ud83d\udfe0 5\uc601\uc5ed 0% (-9%)\n\ud83d\udd34 6\uc601\uc5ed 0% (-8%)\n\u2b55 7\uc601\uc5ed 0% (-5%)\n\n\u25fe\ufe0f \uc2ec\ubc15\uc601\uc5ed \ubd84\uc11d \u25fe\ufe0f\n\ud83e\udd0d 1\uc601\uc5ed 4%\n\ud83d\udc99 2\uc601\uc5ed 11%\n\ud83d\udc9a 3\uc601\uc5ed 49%\n\ud83d\udc9b 4\uc601\uc5ed 35%\n\ud83e\udde1 5\uc601\uc5ed 0%\n\n\n\u25fe\ufe0f \uc5d0\ub108\uc9c0 \ub300\uc0ac \ubd84\uc11d \u25fe\ufe0f\n\ud83d\udd25 \uc18c\ubaa8\uce7c\ub85c\ub9ac 487\n\ud83e\uddc0 \uc9c0\ubc29\uc5f0\uc18c 32.3%\n\ud83c\udf5e \ud0c4\uc218\ud654\ubb3c\uc5f0\uc18c 67.7%\n\u23f2 \uc9c0\ubc29\uac10\ub7c9\ucd94\uc815 16.9g\n\n\n\n\ud83d\udd17https://www.strava.com/clubs/riduck\n\ud83d\udd17https://riduck.com\n",
+      "type": "VirtualRide",
+      "indoor": true,
+      "moving_seconds": 4043,
+      "elapsed_seconds": 4045,
+      "distance_km": 33.19,
+      "avg_speed_kph": 29.53,
+      "max_speed_kph": 41.56,
+      "elevation_m": 53.0,
+      "avg_power": 121.0,
+      "normalized_power": 128.0,
+      "avg_hr": 144.0,
+      "max_hr": 159.0,
+      "avg_cadence": 85.9,
+      "intensity_pct": 75.3,
+      "variability_index": 1.058,
+      "decoupling_pct": 2.29,
+      "efficiency_factor": 0.889,
+      "tss": 64.0,
+      "calories": 465,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 1205
+        },
+        {
+          "id": "Z2",
+          "secs": 1106
+        },
+        {
+          "id": "Z3",
+          "secs": 1732
+        },
+        {
+          "id": "Z4",
+          "secs": 0
+        },
+        {
+          "id": "Z5",
+          "secs": 0
+        },
+        {
+          "id": "Z6",
+          "secs": 0
+        },
+        {
+          "id": "Z7",
+          "secs": 0
+        },
+        {
+          "id": "SS",
+          "secs": 1540
+        }
+      ],
+      "hr_zone_times": [
+        885,
+        2075,
+        1083,
+        0,
+        0,
+        0,
+        0
+      ],
+      "interval_summary": [
+        "3x 3m58s 149w",
+        "2x 6m 148w",
+        "1x 3m27s 143w"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "start_datetime": "2026-08-16T00:08:36",
+      "id": "i176146267",
+      "name": "Zwift - Foundation",
+      "type": "VirtualRide",
+      "indoor": true,
+      "moving_seconds": 2895,
+      "elapsed_seconds": 2897,
+      "distance_km": 22.63,
+      "avg_speed_kph": 28.11,
+      "max_speed_kph": 39.54,
+      "elevation_m": 35.0,
+      "avg_power": 109.0,
+      "normalized_power": 113.0,
+      "avg_hr": 131.0,
+      "max_hr": 146.0,
+      "avg_cadence": 85.2,
+      "intensity_pct": 66.5,
+      "variability_index": 1.037,
+      "decoupling_pct": 1.55,
+      "efficiency_factor": 0.863,
+      "tss": 36.0,
+      "calories": 300,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 960
+        },
+        {
+          "id": "Z2",
+          "secs": 1935
+        },
+        {
+          "id": "Z3",
+          "secs": 0
+        },
+        {
+          "id": "Z4",
+          "secs": 0
+        },
+        {
+          "id": "Z5",
+          "secs": 0
+        },
+        {
+          "id": "Z6",
+          "secs": 0
+        },
+        {
+          "id": "Z7",
+          "secs": 0
+        },
+        {
+          "id": "SS",
+          "secs": 0
+        }
+      ],
+      "hr_zone_times": [
+        2001,
+        894,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
     {
       "date": "2026-08-14",
       "start_datetime": "2026-08-14T21:30:24",
