@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-19T02:52:04.655478",
+  "generated_at": "2026-08-20T02:10:02.484318",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-08-19"
+    "latest": "2026-08-20"
   },
   "counts": {
-    "activities": 555,
-    "weight_records": 0,
+    "activities": 556,
+    "weight_records": 1,
     "years": 8
   },
   "files": [
@@ -180,16 +180,16 @@
     },
     {
       "year": 2026,
-      "activity_count": 26,
-      "total_hours": 24.3,
-      "total_tss": 1183.0,
-      "distance_km": 616.5,
-      "elevation_m": 1434.0,
-      "ctl_peak": 12.4,
+      "activity_count": 27,
+      "total_hours": 25.3,
+      "total_tss": 1224.0,
+      "distance_km": 644.0,
+      "elevation_m": 1477.0,
+      "ctl_peak": 13.0,
       "atl_peak": 30.9,
       "ftp_peak_reported": 180.0,
       "eftp_peak_reported": 158.0,
-      "avg_weight_kg": null,
+      "avg_weight_kg": 74.0,
       "longest_activity_hours": 2.3,
       "max_activity_tss": 156.0,
       "power_curve_watts": {
@@ -203,11 +203,11 @@
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-08-19T02:52:04.655478",
+    "generated_at": "2026-08-20T02:10:02.484318",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",
-      "latest": "2026-08-19"
+      "latest": "2026-08-20"
     },
     "power": {
       "5s": 644.0,
@@ -226,6 +226,78 @@
     "longest_activity_seconds": 29794
   },
   "activities": [
+    {
+      "date": "2026-08-20",
+      "start_datetime": "2026-08-20T01:10:23",
+      "id": "i177642138",
+      "name": "Zwift - Strength",
+      "description": "\ud83d\uddfa\ufe0f Tempus Fugit in Watopia\n\n\u25fe\ufe0f 8\uc6d4 20\uc77c \ud6c8\ub828\uc0c1\ud0dc \u25fe\ufe0f\n\ud83d\ude10 \uc800\ubd80\ud558 \ud14c\uc774\ud37c\ub9c1 (270)\n\ud83c\udf33 \uccb4\ub825 23, \ud53c\ub85c 27, \uade0\ud615 -4\n\n\u25fe\ufe0f \ub77c\uc774\ub529 \uc885\ud569 \u25fe\ufe0f\n\ud83d\udc36 \uc790\uc720\ub85c\uc6b4 \ud6c8\ub828 (\uc801\uc815\uac15\ub3c4)\n\ud83c\udff7\ufe0f \uc801\uc815\uac15\ub3c4 \ud6c8\ub828, \uc9c0\uc18d\uc131\uacfc \ub3d9\uae30\ubd80\uc5ec, \uc990\uac70\uc6c0\n\ud83d\udcca R\ud30c\uc6cc 110, \uac15\ub3c4 0.68, \ud6c8\ub828\ub7c9 45\n\u2728 \ud68c\ubcf5\uc2dc\uac04 14 \uc2dc\uac04\n\n\u25fe\ufe0f \ud53c\ud06c\ud30c\uc6cc \ubd84\uc11d \u25fe\ufe0f\n\u26a1 15\ucd08 230w (48%) \n\u26a1 1\ubd84 170w (57%) \n\u26a1 2\ubd84 160w (63%) \n\u26a1 5\ubd84 144w (78%) \n\u26a1 10\ubd84 130w (74%) \n\u26a1 20\ubd84 115w (74%) \n\u26a1 40\ubd84 107w (82%) \n\n\u25fe\ufe0f \ud30c\uc6cc\uc601\uc5ed \ubd84\uc11d \u25fe\ufe0f\n\u26aa 1\uc601\uc5ed 23% (+6%)\n\ud83d\udd35 2\uc601\uc5ed 62% (+38%)\n\ud83d\udfe2 3\uc601\uc5ed 7% (-18%)\n\ud83d\udfe1 4\uc601\uc5ed 5% (-10%)\n\ud83d\udfe0 5\uc601\uc5ed 0% (-8%)\n\ud83d\udd34 6\uc601\uc5ed 0% (-7%)\n\u2b55 7\uc601\uc5ed 4% \n\n\u25fe\ufe0f \uc2ec\ubc15\uc601\uc5ed \ubd84\uc11d \u25fe\ufe0f\n\ud83e\udd0d 1\uc601\uc5ed 4%\n\ud83d\udc99 2\uc601\uc5ed 41%\n\ud83d\udc9a 3\uc601\uc5ed 55%\n\ud83d\udc9b 4\uc601\uc5ed 1%\n\ud83e\udde1 5\uc601\uc5ed 0%\n\n\u25fe\ufe0f \ubb34\uc0b0\uc18c\uc6b4\ub3d9 \ubd84\uc11d \u25fe\ufe0f\n\ud83d\udd6f\ufe0f \uc131\ub0e5\uac1c\ube44 3\n\u231b \ubb34\uc0b0\uc18c \uc9c0\uc18d\uc2dc\uac04 2m 10s\n\ud83c\udfcb \ubb34\uc0b0\uc18c \uc6b4\ub3d9\ub7c9 13.9kJ\n\ud83d\udd0b \ubb34\uc0b0\uc18c \ucd5c\ub300\ubc29\uc804 17.7%\n\n\u25fe\ufe0f \uc5d0\ub108\uc9c0 \ub300\uc0ac \ubd84\uc11d \u25fe\ufe0f\n\ud83d\udd25 \uc18c\ubaa8\uce7c\ub85c\ub9ac 357\n\ud83e\uddc0 \uc9c0\ubc29\uc5f0\uc18c 53%\n\ud83c\udf5e \ud0c4\uc218\ud654\ubb3c\uc5f0\uc18c 47%\n\u23f2 \uc9c0\ubc29\uac10\ub7c9\ucd94\uc815 20.3g\n\n\n\n\ud83d\udd17https://www.strava.com/clubs/riduck\n\ud83d\udd17https://riduck.com\n",
+      "type": "VirtualRide",
+      "indoor": true,
+      "moving_seconds": 3515,
+      "elapsed_seconds": 3517,
+      "distance_km": 27.51,
+      "avg_speed_kph": 28.15,
+      "max_speed_kph": 40.81,
+      "elevation_m": 43.0,
+      "avg_power": 101.0,
+      "normalized_power": 110.0,
+      "avg_hr": 133.0,
+      "max_hr": 156.0,
+      "avg_cadence": 89.2,
+      "intensity_pct": 64.7,
+      "variability_index": 1.089,
+      "decoupling_pct": 12.63,
+      "efficiency_factor": 0.827,
+      "tss": 41.0,
+      "calories": 340,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 2553
+        },
+        {
+          "id": "Z2",
+          "secs": 631
+        },
+        {
+          "id": "Z3",
+          "secs": 174
+        },
+        {
+          "id": "Z4",
+          "secs": 26
+        },
+        {
+          "id": "Z5",
+          "secs": 26
+        },
+        {
+          "id": "Z6",
+          "secs": 27
+        },
+        {
+          "id": "Z7",
+          "secs": 78
+        },
+        {
+          "id": "SS",
+          "secs": 191
+        }
+      ],
+      "hr_zone_times": [
+        2634,
+        865,
+        16,
+        0,
+        0,
+        0,
+        0
+      ],
+      "interval_summary": [
+        "13x 9s 269w"
+      ]
+    },
     {
       "date": "2026-08-19",
       "start_datetime": "2026-08-19T01:44:54",
