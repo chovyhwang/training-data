@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T00:37:34.921272",
+  "generated_at": "2026-08-27T01:06:09.799690",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-08-25"
+    "latest": "2026-08-26"
   },
   "counts": {
-    "activities": 558,
+    "activities": 559,
     "weight_records": 1,
     "years": 8
   },
@@ -180,34 +180,34 @@
     },
     {
       "year": 2026,
-      "activity_count": 29,
-      "total_hours": 27.4,
-      "total_tss": 1318.0,
-      "distance_km": 705.2,
-      "elevation_m": 1576.0,
-      "ctl_peak": 13.8,
-      "atl_peak": 30.9,
+      "activity_count": 30,
+      "total_hours": 29.9,
+      "total_tss": 1484.0,
+      "distance_km": 756.3,
+      "elevation_m": 2099.0,
+      "ctl_peak": 17.3,
+      "atl_peak": 42.8,
       "ftp_peak_reported": 180.0,
       "eftp_peak_reported": 158.0,
       "avg_weight_kg": 74.0,
-      "longest_activity_hours": 2.3,
-      "max_activity_tss": 156.0,
+      "longest_activity_hours": 2.48,
+      "max_activity_tss": 166.0,
       "power_curve_watts": {
         "5s": 521.0,
         "30s": 365.0,
         "1m": 299.0,
-        "5m": 184.0,
+        "5m": 190.0,
         "20m": 155.0,
         "60m": 126.0
       }
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-08-26T00:37:34.921272",
+    "generated_at": "2026-08-27T01:06:09.799690",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",
-      "latest": "2026-08-25"
+      "latest": "2026-08-26"
     },
     "power": {
       "5s": 644.0,
@@ -226,6 +226,85 @@
     "longest_activity_seconds": 29794
   },
   "activities": [
+    {
+      "date": "2026-08-26",
+      "start_datetime": "2026-08-26T21:49:33",
+      "id": "i180081000",
+      "name": "Ride",
+      "type": "Ride",
+      "indoor": false,
+      "moving_seconds": 8931,
+      "elapsed_seconds": 10978,
+      "distance_km": 51.1,
+      "avg_speed_kph": 20.88,
+      "max_speed_kph": 54.68,
+      "elevation_m": 523.0,
+      "avg_power": 113.0,
+      "normalized_power": 139.0,
+      "avg_hr": 155.0,
+      "max_hr": 181.0,
+      "avg_cadence": 77.4,
+      "intensity_pct": 81.8,
+      "variability_index": 1.23,
+      "decoupling_pct": 9.66,
+      "efficiency_factor": 0.897,
+      "tss": 166.0,
+      "calories": 1020,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 2454
+        },
+        {
+          "id": "Z2",
+          "secs": 2368
+        },
+        {
+          "id": "Z3",
+          "secs": 1944
+        },
+        {
+          "id": "Z4",
+          "secs": 1320
+        },
+        {
+          "id": "Z5",
+          "secs": 419
+        },
+        {
+          "id": "Z6",
+          "secs": 340
+        },
+        {
+          "id": "Z7",
+          "secs": 86
+        },
+        {
+          "id": "SS",
+          "secs": 1542
+        }
+      ],
+      "hr_zone_times": [
+        1096,
+        2328,
+        1782,
+        2780,
+        771,
+        163,
+        11
+      ],
+      "interval_summary": [
+        "1x 64s 214w",
+        "1x 2m4s 219w",
+        "1x 1m54s 179w",
+        "3x 55s 182w",
+        "1x 16s 287w",
+        "1x 21s 299w",
+        "2x 3m17s 159w",
+        "1x 2m38s 155w",
+        "1x 4m46s 150w"
+      ]
+    },
     {
       "date": "2026-08-25",
       "start_datetime": "2026-08-25T23:29:54",
