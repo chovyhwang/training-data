@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T01:24:30.154815",
+  "generated_at": "2026-08-29T01:19:03.047818",
   "source": "Intervals.icu API",
   "years": [
     {
@@ -165,12 +165,12 @@
     },
     {
       "year": 2026,
-      "activity_count": 30,
-      "total_hours": 29.9,
-      "total_tss": 1484.0,
-      "distance_km": 756.3,
-      "elevation_m": 2099.0,
-      "ctl_peak": 17.3,
+      "activity_count": 31,
+      "total_hours": 31.3,
+      "total_tss": 1562.0,
+      "distance_km": 797.2,
+      "elevation_m": 2163.0,
+      "ctl_peak": 18.4,
       "atl_peak": 42.8,
       "ftp_peak_reported": 180.0,
       "eftp_peak_reported": 158.0,
