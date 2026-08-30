@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-29T01:19:03.047818",
+  "generated_at": "2026-08-31T02:09:43.963555",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-08-28"
+    "latest": "2026-08-31"
   },
   "counts": {
-    "activities": 560,
+    "activities": 562,
     "weight_records": 1,
     "years": 8
   },
@@ -180,13 +180,13 @@
     },
     {
       "year": 2026,
-      "activity_count": 31,
-      "total_hours": 31.3,
-      "total_tss": 1562.0,
-      "distance_km": 797.2,
-      "elevation_m": 2163.0,
-      "ctl_peak": 18.4,
-      "atl_peak": 42.8,
+      "activity_count": 33,
+      "total_hours": 33.3,
+      "total_tss": 1650.0,
+      "distance_km": 853.4,
+      "elevation_m": 2358.0,
+      "ctl_peak": 19.1,
+      "atl_peak": 43.2,
       "ftp_peak_reported": 180.0,
       "eftp_peak_reported": 158.0,
       "avg_weight_kg": 74.0,
@@ -203,11 +203,11 @@
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-08-29T01:19:03.047818",
+    "generated_at": "2026-08-31T02:09:43.963555",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",
-      "latest": "2026-08-28"
+      "latest": "2026-08-31"
     },
     "power": {
       "5s": 644.0,
@@ -226,6 +226,142 @@
     "longest_activity_seconds": 29794
   },
   "activities": [
+    {
+      "date": "2026-08-31",
+      "start_datetime": "2026-08-31T01:06:17",
+      "id": "i181435283",
+      "name": "Zwift - FOUNDATION",
+      "type": "VirtualRide",
+      "indoor": true,
+      "moving_seconds": 3630,
+      "elapsed_seconds": 3632,
+      "distance_km": 29.46,
+      "avg_speed_kph": 29.19,
+      "max_speed_kph": 38.24,
+      "elevation_m": 47.0,
+      "avg_power": 107.0,
+      "normalized_power": 109.0,
+      "avg_hr": 130.0,
+      "max_hr": 142.0,
+      "avg_cadence": 93.2,
+      "intensity_pct": 64.1,
+      "variability_index": 1.019,
+      "decoupling_pct": -2.22,
+      "efficiency_factor": 0.838,
+      "tss": 41.0,
+      "calories": 369,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 692
+        },
+        {
+          "id": "Z2",
+          "secs": 2938
+        },
+        {
+          "id": "Z3",
+          "secs": 0
+        },
+        {
+          "id": "Z4",
+          "secs": 0
+        },
+        {
+          "id": "Z5",
+          "secs": 0
+        },
+        {
+          "id": "Z6",
+          "secs": 0
+        },
+        {
+          "id": "Z7",
+          "secs": 0
+        },
+        {
+          "id": "SS",
+          "secs": 0
+        }
+      ],
+      "hr_zone_times": [
+        2974,
+        656,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "start_datetime": "2026-08-29T23:07:07",
+      "id": "i181032696",
+      "name": "Zwift - Foundation",
+      "type": "VirtualRide",
+      "indoor": true,
+      "moving_seconds": 3639,
+      "elapsed_seconds": 3641,
+      "distance_km": 26.77,
+      "avg_speed_kph": 26.46,
+      "max_speed_kph": 44.25,
+      "elevation_m": 148.0,
+      "avg_power": 112.0,
+      "normalized_power": 116.0,
+      "avg_hr": 132.0,
+      "max_hr": 144.0,
+      "avg_cadence": 91.3,
+      "intensity_pct": 68.2,
+      "variability_index": 1.036,
+      "decoupling_pct": 4.48,
+      "efficiency_factor": 0.879,
+      "tss": 47.0,
+      "calories": 389,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 929
+        },
+        {
+          "id": "Z2",
+          "secs": 2655
+        },
+        {
+          "id": "Z3",
+          "secs": 45
+        },
+        {
+          "id": "Z4",
+          "secs": 10
+        },
+        {
+          "id": "Z5",
+          "secs": 0
+        },
+        {
+          "id": "Z6",
+          "secs": 0
+        },
+        {
+          "id": "Z7",
+          "secs": 0
+        },
+        {
+          "id": "SS",
+          "secs": 18
+        }
+      ],
+      "hr_zone_times": [
+        2605,
+        1034,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
     {
       "date": "2026-08-28",
       "start_datetime": "2026-08-28T23:49:51",
