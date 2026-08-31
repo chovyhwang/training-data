@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T02:09:34.543440",
+  "generated_at": "2026-09-01T02:01:41.598464",
   "source": "Intervals.icu API",
   "sync_version": "3.123-HH",
   "script_hash": "a3b8d82fba7f",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-08-31",
+    "latest": "2026-09-01",
     "total_months": 86
   },
   "ftp_timeline": [
@@ -492,100 +492,53 @@
   ],
   "summaries": {
     "90d": {
-      "avg_weekly_tss": 111.0,
-      "avg_weekly_hours": 2.0,
+      "avg_weekly_tss": 114.0,
+      "avg_weekly_hours": 2.1,
       "ctl_start": 1.3,
-      "ctl_end": 19.1,
-      "total_activities": 21,
-      "rest_days": 69,
+      "ctl_end": 19.5,
+      "total_activities": 22,
+      "rest_days": 68,
       "hard_days": 9
     },
     "180d": {
-      "avg_weekly_tss": 101.0,
+      "avg_weekly_tss": 99.0,
       "avg_weekly_hours": 2.0,
       "ctl_start": 1.2,
-      "ctl_end": 18.6,
-      "weeks_tracked": 26
+      "ctl_end": 19.5,
+      "weeks_tracked": 27
     },
     "1y": {
-      "avg_monthly_tss": 275,
-      "ctl_peak": 19.1,
+      "avg_monthly_tss": 241.0,
+      "ctl_peak": 19.5,
       "ctl_low": 1.4,
       "months_tracked": 13
     },
     "2y": {
-      "avg_monthly_tss": 275,
-      "ctl_peak": 19.1,
-      "ctl_low": 0.1,
+      "avg_monthly_tss": 241.0,
+      "ctl_peak": 19.5,
+      "ctl_low": 1.4,
       "months_tracked": 25
     },
     "3y": {
-      "avg_monthly_tss": 226.0,
-      "ctl_peak": 19.1,
+      "avg_monthly_tss": 205,
+      "ctl_peak": 19.5,
       "ctl_low": 0.1,
-      "months_tracked": 36
+      "months_tracked": 37
     },
     "5y": {
-      "avg_monthly_tss": 1126.0,
+      "avg_monthly_tss": 1078.0,
       "ctl_peak": 128.2,
       "ctl_low": 0.1,
-      "months_tracked": 60
+      "months_tracked": 61
     },
     "10y": {
-      "avg_monthly_tss": 1561.0,
+      "avg_monthly_tss": 1529.0,
       "ctl_peak": 128.2,
       "ctl_low": 0.1,
-      "months_tracked": 120
+      "months_tracked": 121
     }
   },
   "daily_90d": [
-    {
-      "date": "2026-06-03",
-      "total_hours": 0.0,
-      "total_tss": 0,
-      "activity_count": 0,
-      "activity_types": "Rest",
-      "ctl": 1.2936586,
-      "atl": 0.016119983,
-      "tsb": 1.3,
-      "hrv": null,
-      "rhr": null,
-      "sleep_hours": null,
-      "sleep_formatted": null,
-      "sleep_quality": null,
-      "sleep_score": null,
-      "weight_kg": null,
-      "display": {
-        "weight": null
-      },
-      "is_hard_day": null,
-      "intensity_basis": null,
-      "fatigue": null,
-      "soreness": null,
-      "stress": null,
-      "mood": null,
-      "motivation": null,
-      "injury": null,
-      "hydration": null,
-      "spO2": null,
-      "blood_glucose": null,
-      "systolic": null,
-      "diastolic": null,
-      "baevsky_si": null,
-      "lactate": null,
-      "respiration": null,
-      "body_fat_pct": null,
-      "abdomen_cm": null,
-      "steps": null,
-      "hydration_volume_l": null,
-      "kcal_consumed": null,
-      "carbohydrates_g": null,
-      "protein_g": null,
-      "fat_g": null,
-      "menstrual_phase": null,
-      "menstrual_phase_predicted": null,
-      "readiness": null
-    },
     {
       "date": "2026-06-04",
       "total_hours": 0.0,
@@ -4771,6 +4724,53 @@
       "menstrual_phase": null,
       "menstrual_phase_predicted": null,
       "readiness": null
+    },
+    {
+      "date": "2026-09-01",
+      "total_hours": 1.11,
+      "total_tss": 35,
+      "activity_count": 1,
+      "activity_types": "VirtualRide",
+      "ctl": 19.4967,
+      "atl": 37.510746,
+      "tsb": -18.0,
+      "hrv": null,
+      "rhr": null,
+      "sleep_hours": null,
+      "sleep_formatted": null,
+      "sleep_quality": null,
+      "sleep_score": null,
+      "weight_kg": null,
+      "display": {
+        "weight": null
+      },
+      "is_hard_day": false,
+      "intensity_basis": "power",
+      "fatigue": null,
+      "soreness": null,
+      "stress": null,
+      "mood": null,
+      "motivation": null,
+      "injury": null,
+      "hydration": null,
+      "spO2": null,
+      "blood_glucose": null,
+      "systolic": null,
+      "diastolic": null,
+      "baevsky_si": null,
+      "lactate": null,
+      "respiration": null,
+      "body_fat_pct": null,
+      "abdomen_cm": null,
+      "steps": null,
+      "hydration_volume_l": null,
+      "kcal_consumed": null,
+      "carbohydrates_g": null,
+      "protein_g": null,
+      "fat_g": null,
+      "menstrual_phase": null,
+      "menstrual_phase_predicted": null,
+      "readiness": null
     }
   ],
   "weekly_180d": [
@@ -5836,38 +5836,57 @@
         "hr": 0
       },
       "acwr": 3.89,
-      "phase_detected": null,
+      "phase_detected": "Build",
       "durability_mean": null,
       "durability_qualifying": 0,
       "ef_mean": 0.86,
       "ef_qualifying": 3,
       "hrrc_mean": 24.0,
       "hrrc_qualifying": 1
+    },
+    {
+      "week_start": "2026-08-31",
+      "total_hours": 2.11,
+      "total_tss": 76,
+      "primary_sport": "cycling",
+      "primary_sport_tss": 76.0,
+      "sport_tss_breakdown": {
+        "cycling": 76.0
+      },
+      "activity_count": 2,
+      "ctl_end": 19.5,
+      "atl_end": 37.5,
+      "tsb_end": -18.0,
+      "ramp_rate": 5.74,
+      "avg_hrv": null,
+      "avg_rhr": null,
+      "avg_sleep_hours": null,
+      "z1_z2_pct": 100.0,
+      "z3_pct": 0.0,
+      "z4_plus_pct": 0.0,
+      "hard_days": 0,
+      "longest_ride_hours": 1.11,
+      "avg_feel": null,
+      "feel_count": 0,
+      "avg_rpe": null,
+      "rpe_count": 0,
+      "weight_kg": null,
+      "display": {
+        "weight": null
+      },
+      "monotony": null,
+      "intensity_basis_breakdown": null,
+      "acwr": 0.33,
+      "phase_detected": null,
+      "durability_mean": null,
+      "durability_qualifying": 0,
+      "ef_mean": 0.84,
+      "ef_qualifying": 1,
+      "hrrc_mean": null,
+      "hrrc_qualifying": 0
     }
   ],
   "monthly_1y": [
-    {
-      "month": "2025-08",
-      "total_hours": 0.0,
-      "total_tss": 0,
-      "activity_count": 0,
-      "ctl_peak": 0.0,
-      "ctl_low": 0.0,
-      "ctl_end": 0.0,
-      "avg_hrv": null,
-      "avg_rhr": null,
-      "z1_z2_pct": null,
-      "z3_pct": null,
-      "z4_plus_pct": null,
-      "hard_days_avg_per_week": 0.0,
-      "longest_ride_hours": 0.0,
-      "avg_weight_kg": null,
-      "display": {
-        "avg_weight": null
-      },
-      "dominant_phase": null,
-      "days_with_data": 31
-    },
     {
       "month": "2025-09",
       "total_hours": 0.0,
@@ -6134,31 +6153,31 @@
       },
       "dominant_phase": "Base",
       "days_with_data": 31
-    }
-  ],
-  "monthly_2y": [
+    },
     {
-      "month": "2024-08",
-      "total_hours": 0.0,
-      "total_tss": 0,
-      "activity_count": 0,
-      "ctl_peak": 0.2,
-      "ctl_low": 0.1,
-      "ctl_end": 0.1,
+      "month": "2026-09",
+      "total_hours": 1.11,
+      "total_tss": 35,
+      "activity_count": 1,
+      "ctl_peak": 19.5,
+      "ctl_low": 19.5,
+      "ctl_end": 19.5,
       "avg_hrv": null,
       "avg_rhr": null,
-      "z1_z2_pct": null,
-      "z3_pct": null,
-      "z4_plus_pct": null,
+      "z1_z2_pct": 100.0,
+      "z3_pct": 0.0,
+      "z4_plus_pct": 0.0,
       "hard_days_avg_per_week": 0.0,
-      "longest_ride_hours": 0.0,
+      "longest_ride_hours": 1.11,
       "avg_weight_kg": null,
       "display": {
         "avg_weight": null
       },
       "dominant_phase": null,
-      "days_with_data": 31
-    },
+      "days_with_data": 1
+    }
+  ],
+  "monthly_2y": [
     {
       "month": "2024-09",
       "total_hours": 0.0,
@@ -6689,6 +6708,28 @@
       },
       "dominant_phase": "Base",
       "days_with_data": 31
+    },
+    {
+      "month": "2026-09",
+      "total_hours": 1.11,
+      "total_tss": 35,
+      "activity_count": 1,
+      "ctl_peak": 19.5,
+      "ctl_low": 19.5,
+      "ctl_end": 19.5,
+      "avg_hrv": null,
+      "avg_rhr": null,
+      "z1_z2_pct": 100.0,
+      "z3_pct": 0.0,
+      "z4_plus_pct": 0.0,
+      "hard_days_avg_per_week": 0.0,
+      "longest_ride_hours": 1.11,
+      "avg_weight_kg": null,
+      "display": {
+        "avg_weight": null
+      },
+      "dominant_phase": null,
+      "days_with_data": 1
     }
   ],
   "monthly_3y": [
@@ -7486,6 +7527,28 @@
       },
       "dominant_phase": "Base",
       "days_with_data": 31
+    },
+    {
+      "month": "2026-09",
+      "total_hours": 1.11,
+      "total_tss": 35,
+      "activity_count": 1,
+      "ctl_peak": 19.5,
+      "ctl_low": 19.5,
+      "ctl_end": 19.5,
+      "avg_hrv": null,
+      "avg_rhr": null,
+      "z1_z2_pct": 100.0,
+      "z3_pct": 0.0,
+      "z4_plus_pct": 0.0,
+      "hard_days_avg_per_week": 0.0,
+      "longest_ride_hours": 1.11,
+      "avg_weight_kg": null,
+      "display": {
+        "avg_weight": null
+      },
+      "dominant_phase": null,
+      "days_with_data": 1
     }
   ],
   "monthly_5y": [
@@ -8811,6 +8874,28 @@
       },
       "dominant_phase": "Base",
       "days_with_data": 31
+    },
+    {
+      "month": "2026-09",
+      "total_hours": 1.11,
+      "total_tss": 35,
+      "activity_count": 1,
+      "ctl_peak": 19.5,
+      "ctl_low": 19.5,
+      "ctl_end": 19.5,
+      "avg_hrv": null,
+      "avg_rhr": null,
+      "z1_z2_pct": 100.0,
+      "z3_pct": 0.0,
+      "z4_plus_pct": 0.0,
+      "hard_days_avg_per_week": 0.0,
+      "longest_ride_hours": 1.11,
+      "avg_weight_kg": null,
+      "display": {
+        "avg_weight": null
+      },
+      "dominant_phase": null,
+      "days_with_data": 1
     }
   ],
   "monthly_10y": [
@@ -11456,6 +11541,28 @@
       },
       "dominant_phase": "Base",
       "days_with_data": 31
+    },
+    {
+      "month": "2026-09",
+      "total_hours": 1.11,
+      "total_tss": 35,
+      "activity_count": 1,
+      "ctl_peak": 19.5,
+      "ctl_low": 19.5,
+      "ctl_end": 19.5,
+      "avg_hrv": null,
+      "avg_rhr": null,
+      "z1_z2_pct": 100.0,
+      "z3_pct": 0.0,
+      "z4_plus_pct": 0.0,
+      "hard_days_avg_per_week": 0.0,
+      "longest_ride_hours": 1.11,
+      "avg_weight_kg": null,
+      "display": {
+        "avg_weight": null
+      },
+      "dominant_phase": null,
+      "days_with_data": 1
     }
   ]
 }
