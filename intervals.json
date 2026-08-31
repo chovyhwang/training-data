@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:51:23.954199",
+  "generated_at": "2026-09-01T01:58:59.938064",
   "schema_version": 1,
   "version": "3.123-HH",
   "script_hash": "a3b8d82fba7f",
@@ -1361,6 +1361,34 @@
           "w_bal_start": 13600,
           "w_bal_end": 13600,
           "training_load": 41.453316
+        }
+      ],
+      "zone_basis": "power"
+    },
+    {
+      "activity_id": "i181788521",
+      "date": "2026-09-01",
+      "start_datetime": "2026-09-01T00:47:23",
+      "type": "VirtualRide",
+      "name": "Zwift - Active Recovery",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3983,
+          "moving_secs": 3983,
+          "start_secs": 0,
+          "end_secs": 3983,
+          "avg_power": 90,
+          "max_power": 127,
+          "avg_hr": 120,
+          "max_hr": 136,
+          "min_hr": 67,
+          "avg_cadence": 88.46121,
+          "zone": 1,
+          "w_bal_start": 13600,
+          "w_bal_end": 13600,
+          "training_load": 35.255363
         }
       ],
       "zone_basis": "power"
