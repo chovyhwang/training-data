@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T23:22:58.579192",
+  "generated_at": "2026-09-14T00:56:11.801653",
   "schema_version": 1,
   "version": "3.123-HH",
   "script_hash": "a3b8d82fba7f",
@@ -612,6 +612,71 @@
           "w_bal_start": -4950,
           "w_bal_end": 3320,
           "training_load": 1.3209602
+        }
+      ],
+      "zone_basis": "power"
+    },
+    {
+      "activity_id": "i186328529",
+      "date": "2026-09-13",
+      "start_datetime": "2026-09-13T23:49:51",
+      "type": "VirtualRide",
+      "name": "Zwift - FOUNDATION",
+      "interval_summary": [
+        "1x 34m35s 134w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 927,
+          "moving_secs": 927,
+          "start_secs": 0,
+          "end_secs": 927,
+          "avg_power": 115,
+          "max_power": 126,
+          "avg_hr": 132,
+          "max_hr": 144,
+          "min_hr": 90,
+          "avg_cadence": 84.23301,
+          "zone": 2,
+          "w_bal_start": 13600,
+          "w_bal_end": 13600,
+          "training_load": 11.783521
+        },
+        {
+          "type": "WORK",
+          "label": "2075s@134w93rpm",
+          "duration_secs": 2075,
+          "moving_secs": 2075,
+          "start_secs": 927,
+          "end_secs": 3002,
+          "avg_power": 134,
+          "max_power": 142,
+          "avg_hr": 142,
+          "max_hr": 148,
+          "min_hr": 130,
+          "avg_cadence": 93.183136,
+          "zone": 3,
+          "w_bal_start": 13600,
+          "w_bal_end": 13600,
+          "training_load": 35.8119
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 629,
+          "moving_secs": 629,
+          "start_secs": 3002,
+          "end_secs": 3631,
+          "avg_power": 91,
+          "max_power": 139,
+          "avg_hr": 127,
+          "max_hr": 144,
+          "min_hr": 113,
+          "avg_cadence": 84.45151,
+          "zone": 1,
+          "w_bal_start": 13600,
+          "w_bal_end": 13600,
+          "training_load": 5.661317
         }
       ],
       "zone_basis": "power"
