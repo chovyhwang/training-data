@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-09-17T23:55:31.335717",
+  "generated_at": "2026-09-18T03:42:46.427113",
   "schema_version": 1,
   "version": "3.123-HH",
   "script_hash": "a3b8d82fba7f",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i182918701",
-      "date": "2026-09-03",
-      "start_datetime": "2026-09-03T23:51:59",
-      "type": "VirtualRide",
-      "name": "Zwift - Foundation",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 4274,
-          "moving_secs": 4274,
-          "start_secs": 0,
-          "end_secs": 4274,
-          "avg_power": 110,
-          "max_power": 127,
-          "avg_hr": 129,
-          "max_hr": 139,
-          "min_hr": 82,
-          "avg_cadence": 86.9825,
-          "zone": 2,
-          "w_bal_start": 13600,
-          "w_bal_end": 13600,
-          "training_load": 52.725986
-        }
-      ],
-      "zone_basis": "power"
-    },
     {
       "activity_id": "i183988074",
       "date": "2026-09-07",
