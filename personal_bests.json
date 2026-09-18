@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-15T00:54:21.279388",
+  "generated_at": "2026-09-19T01:14:20.631139",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-09-14"
+    "latest": "2026-09-19"
   },
   "power": {
     "5s": 644.0,
