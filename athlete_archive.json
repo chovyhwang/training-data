@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T03:14:48.673347",
+  "generated_at": "2026-10-21T03:00:15.604481",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-10-20"
+    "latest": "2026-10-21"
   },
   "counts": {
-    "activities": 582,
+    "activities": 583,
     "weight_records": 1,
     "years": 8
   },
@@ -180,11 +180,11 @@
     },
     {
       "year": 2026,
-      "activity_count": 53,
-      "total_hours": 57.9,
-      "total_tss": 2832.0,
-      "distance_km": 1619.8,
-      "elevation_m": 3546.0,
+      "activity_count": 54,
+      "total_hours": 58.9,
+      "total_tss": 2892.0,
+      "distance_km": 1654.0,
+      "elevation_m": 3599.0,
       "ctl_peak": 23.7,
       "atl_peak": 44.5,
       "ftp_peak_reported": 200.0,
@@ -203,11 +203,11 @@
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-10-20T03:14:48.673347",
+    "generated_at": "2026-10-21T03:00:15.604481",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",
-      "latest": "2026-10-20"
+      "latest": "2026-10-21"
     },
     "power": {
       "5s": 644.0,
@@ -226,6 +226,77 @@
     "longest_activity_seconds": 29794
   },
   "activities": [
+    {
+      "date": "2026-10-21",
+      "start_datetime": "2026-10-21T01:57:54",
+      "id": "i199646110",
+      "name": "Zwift - SWEET SPOT",
+      "type": "VirtualRide",
+      "indoor": true,
+      "moving_seconds": 3634,
+      "elapsed_seconds": 3636,
+      "distance_km": 34.24,
+      "avg_speed_kph": 33.89,
+      "max_speed_kph": 45.23,
+      "elevation_m": 53.0,
+      "avg_power": 138.0,
+      "normalized_power": 154.0,
+      "avg_hr": 138.0,
+      "max_hr": 161.0,
+      "avg_cadence": 83.3,
+      "intensity_pct": 77.0,
+      "variability_index": 1.116,
+      "decoupling_pct": 3.16,
+      "efficiency_factor": 1.116,
+      "tss": 60.0,
+      "calories": 481,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 1674
+        },
+        {
+          "id": "Z2",
+          "secs": 167
+        },
+        {
+          "id": "Z3",
+          "secs": 1725
+        },
+        {
+          "id": "Z4",
+          "secs": 68
+        },
+        {
+          "id": "Z5",
+          "secs": 0
+        },
+        {
+          "id": "Z6",
+          "secs": 0
+        },
+        {
+          "id": "Z7",
+          "secs": 0
+        },
+        {
+          "id": "SS",
+          "secs": 1787
+        }
+      ],
+      "hr_zone_times": [
+        1735,
+        926,
+        961,
+        12,
+        0,
+        0,
+        0
+      ],
+      "interval_summary": [
+        "3x 9m58s 180w"
+      ]
+    },
     {
       "date": "2026-10-20",
       "start_datetime": "2026-10-20T01:46:49",
