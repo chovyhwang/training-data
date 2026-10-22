@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:59:59.288528",
+  "generated_at": "2026-10-23T02:49:53.914585",
   "source": "Intervals.icu API",
   "sync_version": "3.123-HH",
   "script_hash": "a3b8d82fba7f",
@@ -530,8 +530,8 @@
     "90d": {
       "avg_weekly_tss": 165.0,
       "avg_weekly_hours": 3.3,
-      "ctl_start": 8.7,
-      "ctl_end": 23.0,
+      "ctl_start": 8.3,
+      "ctl_end": 22.0,
       "total_activities": 33,
       "rest_days": 57,
       "hard_days": 10
@@ -540,24 +540,24 @@
       "avg_weekly_tss": 141.0,
       "avg_weekly_hours": 2.7,
       "ctl_start": 3.1,
-      "ctl_end": 23.0,
+      "ctl_end": 22.0,
       "weeks_tracked": 27
     },
     "1y": {
       "avg_monthly_tss": 362.0,
-      "ctl_peak": 23.0,
+      "ctl_peak": 22.0,
       "ctl_low": 1.4,
       "months_tracked": 13
     },
     "2y": {
       "avg_monthly_tss": 362.0,
-      "ctl_peak": 23.0,
+      "ctl_peak": 22.0,
       "ctl_low": 1.4,
       "months_tracked": 25
     },
     "3y": {
       "avg_monthly_tss": 305.0,
-      "ctl_peak": 23.0,
+      "ctl_peak": 22.0,
       "ctl_low": 0.1,
       "months_tracked": 37
     },
@@ -575,100 +575,6 @@
     }
   },
   "daily_90d": [
-    {
-      "date": "2026-07-24",
-      "total_hours": 0.0,
-      "total_tss": 0,
-      "activity_count": 0,
-      "activity_types": "Rest",
-      "ctl": 8.738886,
-      "atl": 15.603053,
-      "tsb": -6.9,
-      "hrv": null,
-      "rhr": null,
-      "sleep_hours": null,
-      "sleep_formatted": null,
-      "sleep_quality": null,
-      "sleep_score": null,
-      "weight_kg": null,
-      "display": {
-        "weight": null
-      },
-      "is_hard_day": null,
-      "intensity_basis": null,
-      "fatigue": null,
-      "soreness": null,
-      "stress": null,
-      "mood": null,
-      "motivation": null,
-      "injury": null,
-      "hydration": null,
-      "spO2": null,
-      "blood_glucose": null,
-      "systolic": null,
-      "diastolic": null,
-      "baevsky_si": null,
-      "lactate": null,
-      "respiration": null,
-      "body_fat_pct": null,
-      "abdomen_cm": null,
-      "steps": null,
-      "hydration_volume_l": null,
-      "kcal_consumed": null,
-      "carbohydrates_g": null,
-      "protein_g": null,
-      "fat_g": null,
-      "menstrual_phase": null,
-      "menstrual_phase_predicted": null,
-      "readiness": null
-    },
-    {
-      "date": "2026-07-25",
-      "total_hours": 0.0,
-      "total_tss": 0,
-      "activity_count": 0,
-      "activity_types": "Rest",
-      "ctl": 8.533275,
-      "atl": 13.525942,
-      "tsb": -5.0,
-      "hrv": null,
-      "rhr": null,
-      "sleep_hours": null,
-      "sleep_formatted": null,
-      "sleep_quality": null,
-      "sleep_score": null,
-      "weight_kg": null,
-      "display": {
-        "weight": null
-      },
-      "is_hard_day": null,
-      "intensity_basis": null,
-      "fatigue": null,
-      "soreness": null,
-      "stress": null,
-      "mood": null,
-      "motivation": null,
-      "injury": null,
-      "hydration": null,
-      "spO2": null,
-      "blood_glucose": null,
-      "systolic": null,
-      "diastolic": null,
-      "baevsky_si": null,
-      "lactate": null,
-      "respiration": null,
-      "body_fat_pct": null,
-      "abdomen_cm": null,
-      "steps": null,
-      "hydration_volume_l": null,
-      "kcal_consumed": null,
-      "carbohydrates_g": null,
-      "protein_g": null,
-      "fat_g": null,
-      "menstrual_phase": null,
-      "menstrual_phase_predicted": null,
-      "readiness": null
-    },
     {
       "date": "2026-07-26",
       "total_hours": 0.0,
@@ -4807,6 +4713,100 @@
       "menstrual_phase": null,
       "menstrual_phase_predicted": null,
       "readiness": null
+    },
+    {
+      "date": "2026-10-22",
+      "total_hours": 0.0,
+      "total_tss": 0,
+      "activity_count": 0,
+      "activity_types": "Rest",
+      "ctl": 22.486012,
+      "atl": 24.36843,
+      "tsb": -1.9,
+      "hrv": null,
+      "rhr": null,
+      "sleep_hours": null,
+      "sleep_formatted": null,
+      "sleep_quality": null,
+      "sleep_score": null,
+      "weight_kg": null,
+      "display": {
+        "weight": null
+      },
+      "is_hard_day": null,
+      "intensity_basis": null,
+      "fatigue": null,
+      "soreness": null,
+      "stress": null,
+      "mood": null,
+      "motivation": null,
+      "injury": null,
+      "hydration": null,
+      "spO2": null,
+      "blood_glucose": null,
+      "systolic": null,
+      "diastolic": null,
+      "baevsky_si": null,
+      "lactate": null,
+      "respiration": null,
+      "body_fat_pct": null,
+      "abdomen_cm": null,
+      "steps": null,
+      "hydration_volume_l": null,
+      "kcal_consumed": null,
+      "carbohydrates_g": null,
+      "protein_g": null,
+      "fat_g": null,
+      "menstrual_phase": null,
+      "menstrual_phase_predicted": null,
+      "readiness": null
+    },
+    {
+      "date": "2026-10-23",
+      "total_hours": 0.0,
+      "total_tss": 0,
+      "activity_count": 0,
+      "activity_types": "Rest",
+      "ctl": 21.956953,
+      "atl": 21.124453,
+      "tsb": 0.8,
+      "hrv": null,
+      "rhr": null,
+      "sleep_hours": null,
+      "sleep_formatted": null,
+      "sleep_quality": null,
+      "sleep_score": null,
+      "weight_kg": null,
+      "display": {
+        "weight": null
+      },
+      "is_hard_day": null,
+      "intensity_basis": null,
+      "fatigue": null,
+      "soreness": null,
+      "stress": null,
+      "mood": null,
+      "motivation": null,
+      "injury": null,
+      "hydration": null,
+      "spO2": null,
+      "blood_glucose": null,
+      "systolic": null,
+      "diastolic": null,
+      "baevsky_si": null,
+      "lactate": null,
+      "respiration": null,
+      "body_fat_pct": null,
+      "abdomen_cm": null,
+      "steps": null,
+      "hydration_volume_l": null,
+      "kcal_consumed": null,
+      "carbohydrates_g": null,
+      "protein_g": null,
+      "fat_g": null,
+      "menstrual_phase": null,
+      "menstrual_phase_predicted": null,
+      "readiness": null
     }
   ],
   "weekly_180d": [
@@ -5906,10 +5906,10 @@
         "cycling": 106.0
       },
       "activity_count": 2,
-      "ctl_end": 23.0,
-      "atl_end": 28.1,
-      "tsb_end": -5.1,
-      "ramp_rate": 0.26,
+      "ctl_end": 22.0,
+      "atl_end": 21.1,
+      "tsb_end": 0.8,
+      "ramp_rate": -1.2,
       "avg_hrv": null,
       "avg_rhr": null,
       "avg_sleep_hours": null,
@@ -6213,7 +6213,7 @@
       "activity_count": 9,
       "ctl_peak": 23.7,
       "ctl_low": 19.1,
-      "ctl_end": 23.0,
+      "ctl_end": 22.0,
       "avg_hrv": null,
       "avg_rhr": null,
       "z1_z2_pct": 85.5,
@@ -6226,7 +6226,7 @@
         "avg_weight": null
       },
       "dominant_phase": "Build",
-      "days_with_data": 21
+      "days_with_data": 23
     }
   ],
   "monthly_2y": [
@@ -6768,7 +6768,7 @@
       "activity_count": 9,
       "ctl_peak": 23.7,
       "ctl_low": 19.1,
-      "ctl_end": 23.0,
+      "ctl_end": 22.0,
       "avg_hrv": null,
       "avg_rhr": null,
       "z1_z2_pct": 85.5,
@@ -6781,7 +6781,7 @@
         "avg_weight": null
       },
       "dominant_phase": "Build",
-      "days_with_data": 21
+      "days_with_data": 23
     }
   ],
   "monthly_3y": [
@@ -7587,7 +7587,7 @@
       "activity_count": 9,
       "ctl_peak": 23.7,
       "ctl_low": 19.1,
-      "ctl_end": 23.0,
+      "ctl_end": 22.0,
       "avg_hrv": null,
       "avg_rhr": null,
       "z1_z2_pct": 85.5,
@@ -7600,7 +7600,7 @@
         "avg_weight": null
       },
       "dominant_phase": "Build",
-      "days_with_data": 21
+      "days_with_data": 23
     }
   ],
   "monthly_5y": [
@@ -8934,7 +8934,7 @@
       "activity_count": 9,
       "ctl_peak": 23.7,
       "ctl_low": 19.1,
-      "ctl_end": 23.0,
+      "ctl_end": 22.0,
       "avg_hrv": null,
       "avg_rhr": null,
       "z1_z2_pct": 85.5,
@@ -8947,7 +8947,7 @@
         "avg_weight": null
       },
       "dominant_phase": "Build",
-      "days_with_data": 21
+      "days_with_data": 23
     }
   ],
   "monthly_10y": [
@@ -11601,7 +11601,7 @@
       "activity_count": 9,
       "ctl_peak": 23.7,
       "ctl_low": 19.1,
-      "ctl_end": 23.0,
+      "ctl_end": 22.0,
       "avg_hrv": null,
       "avg_rhr": null,
       "z1_z2_pct": 85.5,
@@ -11614,7 +11614,7 @@
         "avg_weight": null
       },
       "dominant_phase": "Build",
-      "days_with_data": 21
+      "days_with_data": 23
     }
   ]
 }
