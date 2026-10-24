@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T03:01:05.236608",
+  "generated_at": "2026-10-25T01:08:52.119799",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-10-23"
+    "latest": "2026-10-25"
   },
   "counts": {
-    "activities": 584,
+    "activities": 585,
     "weight_records": 1,
     "years": 8
   },
@@ -180,11 +180,11 @@
     },
     {
       "year": 2026,
-      "activity_count": 55,
-      "total_hours": 60.4,
-      "total_tss": 2955.0,
-      "distance_km": 1703.4,
-      "elevation_m": 3678.0,
+      "activity_count": 56,
+      "total_hours": 60.6,
+      "total_tss": 2976.0,
+      "distance_km": 1712.0,
+      "elevation_m": 3690.0,
       "ctl_peak": 23.7,
       "atl_peak": 44.5,
       "ftp_peak_reported": 200.0,
@@ -203,11 +203,11 @@
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-10-23T03:01:05.236608",
+    "generated_at": "2026-10-25T01:08:52.119799",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",
-      "latest": "2026-10-23"
+      "latest": "2026-10-25"
     },
     "power": {
       "5s": 644.0,
@@ -226,6 +226,78 @@
     "longest_activity_seconds": 29794
   },
   "activities": [
+    {
+      "date": "2026-10-25",
+      "start_datetime": "2026-10-25T00:44:24",
+      "id": "i201153755",
+      "name": "Zwift - FTP Ramp Test",
+      "type": "VirtualRide",
+      "indoor": true,
+      "moving_seconds": 914,
+      "elapsed_seconds": 914,
+      "distance_km": 8.61,
+      "avg_speed_kph": 33.87,
+      "max_speed_kph": 44.86,
+      "elevation_m": 12.0,
+      "avg_power": 149.0,
+      "normalized_power": 181.0,
+      "avg_hr": 142.0,
+      "max_hr": 182.0,
+      "avg_cadence": 84.3,
+      "intensity_pct": 90.5,
+      "variability_index": 1.215,
+      "decoupling_pct": -42.42,
+      "efficiency_factor": 1.275,
+      "tss": 21.0,
+      "calories": 130,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 267
+        },
+        {
+          "id": "Z2",
+          "secs": 263
+        },
+        {
+          "id": "Z3",
+          "secs": 119
+        },
+        {
+          "id": "Z4",
+          "secs": 62
+        },
+        {
+          "id": "Z5",
+          "secs": 119
+        },
+        {
+          "id": "Z6",
+          "secs": 84
+        },
+        {
+          "id": "Z7",
+          "secs": 0
+        },
+        {
+          "id": "SS",
+          "secs": 62
+        }
+      ],
+      "hr_zone_times": [
+        451,
+        139,
+        34,
+        168,
+        45,
+        61,
+        16
+      ],
+      "interval_summary": [
+        "1x 1m58s 230w",
+        "1x 82s 265w"
+      ]
+    },
     {
       "date": "2026-10-23",
       "start_datetime": "2026-10-23T01:18:10",
