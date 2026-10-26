@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-25T02:24:09.245729",
+  "generated_at": "2026-10-27T01:21:16.004009",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-10-25"
+    "latest": "2026-10-26"
   },
   "counts": {
-    "activities": 586,
+    "activities": 587,
     "weight_records": 1,
     "years": 8
   },
@@ -180,12 +180,12 @@
     },
     {
       "year": 2026,
-      "activity_count": 57,
-      "total_hours": 61.8,
-      "total_tss": 3021.0,
-      "distance_km": 1749.2,
-      "elevation_m": 3748.0,
-      "ctl_peak": 23.9,
+      "activity_count": 58,
+      "total_hours": 63.3,
+      "total_tss": 3082.0,
+      "distance_km": 1797.2,
+      "elevation_m": 3821.0,
+      "ctl_peak": 24.8,
       "atl_peak": 44.5,
       "ftp_peak_reported": 200.0,
       "eftp_peak_reported": 189.0,
@@ -203,11 +203,11 @@
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-10-25T02:24:09.245729",
+    "generated_at": "2026-10-27T01:21:16.004009",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",
-      "latest": "2026-10-25"
+      "latest": "2026-10-26"
     },
     "power": {
       "5s": 644.0,
@@ -226,6 +226,74 @@
     "longest_activity_seconds": 29794
   },
   "activities": [
+    {
+      "date": "2026-10-26",
+      "start_datetime": "2026-10-26T23:12:21",
+      "id": "i201938005",
+      "name": "Zwift - Foundation",
+      "type": "VirtualRide",
+      "indoor": true,
+      "moving_seconds": 5434,
+      "elapsed_seconds": 5436,
+      "distance_km": 48.0,
+      "avg_speed_kph": 31.78,
+      "max_speed_kph": 40.2,
+      "elevation_m": 73.0,
+      "avg_power": 125.0,
+      "normalized_power": 127.0,
+      "avg_hr": 132.0,
+      "max_hr": 146.0,
+      "avg_cadence": 87.3,
+      "intensity_pct": 63.5,
+      "variability_index": 1.016,
+      "decoupling_pct": 0.03,
+      "efficiency_factor": 0.962,
+      "tss": 61.0,
+      "calories": 647,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 1109
+        },
+        {
+          "id": "Z2",
+          "secs": 4325
+        },
+        {
+          "id": "Z3",
+          "secs": 0
+        },
+        {
+          "id": "Z4",
+          "secs": 0
+        },
+        {
+          "id": "Z5",
+          "secs": 0
+        },
+        {
+          "id": "Z6",
+          "secs": 0
+        },
+        {
+          "id": "Z7",
+          "secs": 0
+        },
+        {
+          "id": "SS",
+          "secs": 0
+        }
+      ],
+      "hr_zone_times": [
+        3919,
+        1515,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
     {
       "date": "2026-10-25",
       "start_datetime": "2026-10-25T01:08:26",
