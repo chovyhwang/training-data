@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-30T03:04:14.531228",
+  "generated_at": "2026-11-05T01:11:30.370419",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-10-30"
+    "latest": "2026-11-04"
   },
   "counts": {
-    "activities": 590,
+    "activities": 591,
     "weight_records": 1,
     "years": 8
   },
@@ -180,11 +180,11 @@
     },
     {
       "year": 2026,
-      "activity_count": 61,
-      "total_hours": 66.3,
-      "total_tss": 3255.0,
-      "distance_km": 1892.5,
-      "elevation_m": 3968.0,
+      "activity_count": 62,
+      "total_hours": 68.2,
+      "total_tss": 3357.0,
+      "distance_km": 1937.7,
+      "elevation_m": 4171.0,
       "ctl_peak": 26.5,
       "atl_peak": 44.5,
       "ftp_peak_reported": 200.0,
@@ -203,11 +203,11 @@
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-10-30T03:04:14.531228",
+    "generated_at": "2026-11-05T01:11:30.370419",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",
-      "latest": "2026-10-30"
+      "latest": "2026-11-04"
     },
     "power": {
       "5s": 644.0,
@@ -226,6 +226,80 @@
     "longest_activity_seconds": 29794
   },
   "activities": [
+    {
+      "date": "2026-11-04",
+      "start_datetime": "2026-11-04T22:40:45",
+      "id": "i205735178",
+      "name": "Ride",
+      "type": "Ride",
+      "indoor": false,
+      "moving_seconds": 6605,
+      "elapsed_seconds": 7120,
+      "distance_km": 45.22,
+      "avg_speed_kph": 24.6,
+      "max_speed_kph": 54.55,
+      "elevation_m": 203.0,
+      "avg_power": 123.0,
+      "normalized_power": 149.0,
+      "avg_hr": 143.0,
+      "max_hr": 176.0,
+      "avg_cadence": 83.3,
+      "intensity_pct": 74.5,
+      "variability_index": 1.211,
+      "decoupling_pct": 13.21,
+      "efficiency_factor": 1.042,
+      "tss": 102.0,
+      "calories": 818,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 2205
+        },
+        {
+          "id": "Z2",
+          "secs": 2496
+        },
+        {
+          "id": "Z3",
+          "secs": 1094
+        },
+        {
+          "id": "Z4",
+          "secs": 456
+        },
+        {
+          "id": "Z5",
+          "secs": 205
+        },
+        {
+          "id": "Z6",
+          "secs": 92
+        },
+        {
+          "id": "Z7",
+          "secs": 57
+        },
+        {
+          "id": "SS",
+          "secs": 557
+        }
+      ],
+      "hr_zone_times": [
+        2276,
+        2767,
+        747,
+        676,
+        138,
+        1,
+        0
+      ],
+      "interval_summary": [
+        "1x 3m10s 208w",
+        "1x 97s 201w",
+        "2x 11s 357w",
+        "1x 18s 380w"
+      ]
+    },
     {
       "date": "2026-10-30",
       "start_datetime": "2026-10-30T00:55:15",
