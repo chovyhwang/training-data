@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T01:11:30.370419",
+  "generated_at": "2026-11-07T01:03:20.732080",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-11-04"
+    "latest": "2026-11-07"
   },
   "counts": {
-    "activities": 591,
+    "activities": 593,
     "weight_records": 1,
     "years": 8
   },
@@ -180,11 +180,11 @@
     },
     {
       "year": 2026,
-      "activity_count": 62,
-      "total_hours": 68.2,
-      "total_tss": 3357.0,
-      "distance_km": 1937.7,
-      "elevation_m": 4171.0,
+      "activity_count": 64,
+      "total_hours": 69.7,
+      "total_tss": 3419.0,
+      "distance_km": 1957.4,
+      "elevation_m": 4944.0,
       "ctl_peak": 26.5,
       "atl_peak": 44.5,
       "ftp_peak_reported": 200.0,
@@ -203,11 +203,11 @@
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-11-05T01:11:30.370419",
+    "generated_at": "2026-11-07T01:03:20.732080",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",
-      "latest": "2026-11-04"
+      "latest": "2026-11-07"
     },
     "power": {
       "5s": 644.0,
@@ -226,6 +226,85 @@
     "longest_activity_seconds": 29794
   },
   "activities": [
+    {
+      "date": "2026-11-07",
+      "start_datetime": "2026-11-07T00:47:54",
+      "id": "20884108175",
+      "indoor": false,
+      "moving_seconds": 0,
+      "elapsed_seconds": 0,
+      "distance_km": 0.0,
+      "elevation_m": 0.0,
+      "tss": 0.0
+    },
+    {
+      "date": "2026-11-06",
+      "start_datetime": "2026-11-06T23:15:39",
+      "id": "i206627960",
+      "name": "Zwift - Foundation",
+      "type": "VirtualRide",
+      "indoor": true,
+      "moving_seconds": 5408,
+      "elapsed_seconds": 5440,
+      "distance_km": 19.64,
+      "avg_speed_kph": 13.05,
+      "max_speed_kph": 75.94,
+      "elevation_m": 773.0,
+      "avg_power": 125.0,
+      "normalized_power": 128.0,
+      "avg_hr": 127.0,
+      "max_hr": 138.0,
+      "avg_cadence": 82.4,
+      "intensity_pct": 64.0,
+      "variability_index": 1.024,
+      "decoupling_pct": -1.16,
+      "efficiency_factor": 1.008,
+      "tss": 62.0,
+      "calories": 647,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 1081
+        },
+        {
+          "id": "Z2",
+          "secs": 4324
+        },
+        {
+          "id": "Z3",
+          "secs": 3
+        },
+        {
+          "id": "Z4",
+          "secs": 0
+        },
+        {
+          "id": "Z5",
+          "secs": 0
+        },
+        {
+          "id": "Z6",
+          "secs": 0
+        },
+        {
+          "id": "Z7",
+          "secs": 0
+        },
+        {
+          "id": "SS",
+          "secs": 0
+        }
+      ],
+      "hr_zone_times": [
+        5400,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
     {
       "date": "2026-11-04",
       "start_datetime": "2026-11-04T22:40:45",
