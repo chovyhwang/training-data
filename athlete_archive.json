@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-07T01:03:20.732080",
+  "generated_at": "2026-11-09T00:01:41.006234",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
-    "latest": "2026-11-07"
+    "latest": "2026-11-08"
   },
   "counts": {
-    "activities": 593,
+    "activities": 594,
     "weight_records": 1,
     "years": 8
   },
@@ -180,11 +180,11 @@
     },
     {
       "year": 2026,
-      "activity_count": 64,
-      "total_hours": 69.7,
-      "total_tss": 3419.0,
-      "distance_km": 1957.4,
-      "elevation_m": 4944.0,
+      "activity_count": 65,
+      "total_hours": 71.3,
+      "total_tss": 3479.0,
+      "distance_km": 1996.5,
+      "elevation_m": 5073.0,
       "ctl_peak": 26.5,
       "atl_peak": 44.5,
       "ftp_peak_reported": 200.0,
@@ -203,11 +203,11 @@
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-11-07T01:03:20.732080",
+    "generated_at": "2026-11-09T00:01:41.006234",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",
-      "latest": "2026-11-07"
+      "latest": "2026-11-08"
     },
     "power": {
       "5s": 644.0,
@@ -227,15 +227,144 @@
   },
   "activities": [
     {
+      "date": "2026-11-08",
+      "start_datetime": "2026-11-08T22:26:58",
+      "id": "i207434355",
+      "name": "Ride",
+      "type": "Ride",
+      "indoor": false,
+      "moving_seconds": 4993,
+      "elapsed_seconds": 5275,
+      "distance_km": 32.59,
+      "avg_speed_kph": 23.5,
+      "max_speed_kph": 51.25,
+      "elevation_m": 87.0,
+      "avg_power": 108.0,
+      "normalized_power": 128.0,
+      "avg_hr": 135.0,
+      "max_hr": 164.0,
+      "avg_cadence": 83.3,
+      "intensity_pct": 64.0,
+      "variability_index": 1.185,
+      "decoupling_pct": 2.95,
+      "efficiency_factor": 0.948,
+      "tss": 57.0,
+      "calories": 547,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 2146
+        },
+        {
+          "id": "Z2",
+          "secs": 1997
+        },
+        {
+          "id": "Z3",
+          "secs": 587
+        },
+        {
+          "id": "Z4",
+          "secs": 149
+        },
+        {
+          "id": "Z5",
+          "secs": 57
+        },
+        {
+          "id": "Z6",
+          "secs": 47
+        },
+        {
+          "id": "Z7",
+          "secs": 10
+        },
+        {
+          "id": "SS",
+          "secs": 213
+        }
+      ],
+      "hr_zone_times": [
+        2702,
+        2080,
+        165,
+        47,
+        0,
+        0,
+        0
+      ],
+      "interval_summary": [
+        "1x 54s 216w"
+      ]
+    },
+    {
       "date": "2026-11-07",
       "start_datetime": "2026-11-07T00:47:54",
-      "id": "20884108175",
-      "indoor": false,
-      "moving_seconds": 0,
-      "elapsed_seconds": 0,
-      "distance_km": 0.0,
-      "elevation_m": 0.0,
-      "tss": 0.0
+      "id": "i206633791",
+      "name": "Zwift - Glen Etive in Video",
+      "description": "\u25fe\ufe0f 11\uc6d4 7\uc77c \ud6c8\ub828\uc0c1\ud0dc \u25fe\ufe0f\n\ud83d\ude10 \uc800\ubd80\ud558 \ud14c\uc774\ud37c\ub9c1 (178)\n\ud83c\udf33 \uccb4\ub825 27, \ud53c\ub85c 31, \uade0\ud615 -4\n\n\u25fe\ufe0f \ub77c\uc774\ub529 \uc885\ud569 \u25fe\ufe0f\n\ud83e\udd86 \uadf8 \ubc16\uc758 \ud6c8\ub828 ()\n\ud83c\udff7\ufe0f \ubd84\ub958\ub418\uc9c0 \uc54a\ub294 \ud6c8\ub828\n\ud83d\udcca R\ud30c\uc6cc 81, \uac15\ub3c4 0.42, \ud6c8\ub828\ub7c9 4\n\u2728 \ud68c\ubcf5\uc2dc\uac04 2 \uc2dc\uac04\n\n\u25fe\ufe0f \ud53c\ud06c\ud30c\uc6cc \ubd84\uc11d \u25fe\ufe0f\n\u26a1 15\ucd08 157w (40%) \n\u26a1 1\ubd84 114w (42%) \n\u26a1 2\ubd84 92w (35%) \n\u26a1 5\ubd84 76w (33%) \n\u26a1 10\ubd84 71w (37%) \n\n\u25fe\ufe0f \ud30c\uc6cc\uc601\uc5ed \ubd84\uc11d \u25fe\ufe0f\n\u26aa 1\uc601\uc5ed 85% (+62%)\n\ud83d\udd35 2\uc601\uc5ed 8% (-43%)\n\ud83d\udfe2 3\uc601\uc5ed 6% (-7%)\n\ud83d\udfe1 4\uc601\uc5ed 1% (-10%)\n\ud83d\udfe0 5\uc601\uc5ed 1% \n\ud83d\udd34 6\uc601\uc5ed 0% (-1%)\n\u2b55 7\uc601\uc5ed 0% \n\n\u25fe\ufe0f \uc2ec\ubc15\uc601\uc5ed \ubd84\uc11d \u25fe\ufe0f\n\ud83e\udd0d 1\uc601\uc5ed 75%\n\ud83d\udc99 2\uc601\uc5ed 25%\n\ud83d\udc9a 3\uc601\uc5ed 0%\n\ud83d\udc9b 4\uc601\uc5ed 0%\n\ud83e\udde1 5\uc601\uc5ed 0%\n\n\u25fe\ufe0f \ubb34\uc0b0\uc18c\uc6b4\ub3d9 \ubd84\uc11d \u25fe\ufe0f\n\u231b \ubb34\uc0b0\uc18c \uc9c0\uc18d\uc2dc\uac04 8s\n\ud83c\udfcb \ubb34\uc0b0\uc18c \uc6b4\ub3d9\ub7c9 0.1kJ\n\ud83d\udd0b \ubb34\uc0b0\uc18c \ucd5c\ub300\ubc29\uc804 0.4%\n\n\u25fe\ufe0f \uc5d0\ub108\uc9c0 \ub300\uc0ac \ubd84\uc11d \u25fe\ufe0f\n\ud83d\udd25 \uc18c\ubaa8\uce7c\ub85c\ub9ac 51\n\ud83e\uddc0 \uc9c0\ubc29\uc5f0\uc18c 65.6%\n\ud83c\udf5e \ud0c4\uc218\ud654\ubb3c\uc5f0\uc18c 34.4%\n\u23f2 \uc9c0\ubc29\uac10\ub7c9\ucd94\uc815 3.6g\n\n\n\n\ud83d\udd17https://www.strava.com/clubs/riduck\n\ud83d\udd17https://riduck.com\n",
+      "type": "VirtualRide",
+      "indoor": true,
+      "moving_seconds": 750,
+      "elapsed_seconds": 754,
+      "distance_km": 6.58,
+      "avg_speed_kph": 31.37,
+      "max_speed_kph": 52.45,
+      "elevation_m": 42.0,
+      "avg_power": 68.0,
+      "normalized_power": 81.0,
+      "avg_hr": 108.0,
+      "max_hr": 125.0,
+      "avg_cadence": 83.7,
+      "intensity_pct": 40.5,
+      "variability_index": 1.191,
+      "decoupling_pct": -4.47,
+      "efficiency_factor": 0.75,
+      "tss": 3.0,
+      "calories": 48,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 655
+        },
+        {
+          "id": "Z2",
+          "secs": 63
+        },
+        {
+          "id": "Z3",
+          "secs": 25
+        },
+        {
+          "id": "Z4",
+          "secs": 7
+        },
+        {
+          "id": "Z5",
+          "secs": 0
+        },
+        {
+          "id": "Z6",
+          "secs": 0
+        },
+        {
+          "id": "Z7",
+          "secs": 0
+        },
+        {
+          "id": "SS",
+          "secs": 12
+        }
+      ],
+      "hr_zone_times": [
+        750,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     {
       "date": "2026-11-06",
