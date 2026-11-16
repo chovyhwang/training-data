@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T22:15:41.975384",
+  "generated_at": "2026-11-16T22:17:01.896192",
   "source": "Intervals.icu API",
   "data_range": {
     "earliest": "2019-06-03",
     "latest": "2026-11-16"
   },
   "counts": {
-    "activities": 596,
+    "activities": 597,
     "weight_records": 1,
     "years": 8
   },
@@ -180,11 +180,11 @@
     },
     {
       "year": 2026,
-      "activity_count": 67,
-      "total_hours": 73.1,
-      "total_tss": 3604.0,
-      "distance_km": 2037.3,
-      "elevation_m": 5745.0,
+      "activity_count": 68,
+      "total_hours": 73.9,
+      "total_tss": 3651.0,
+      "distance_km": 2058.7,
+      "elevation_m": 5771.0,
       "ctl_peak": 26.9,
       "atl_peak": 44.5,
       "ftp_peak_reported": 200.0,
@@ -203,7 +203,7 @@
     }
   ],
   "personal_bests": {
-    "generated_at": "2026-11-16T22:15:41.975384",
+    "generated_at": "2026-11-16T22:17:01.896192",
     "source": "Intervals.icu API",
     "data_range": {
       "earliest": "2019-06-03",
@@ -229,10 +229,85 @@
     {
       "date": "2026-11-16",
       "start_datetime": "2026-11-16T14:03:51",
-      "id": "21004924547",
+      "id": "i210755734",
+      "name": "\uac10\uae30\ud0c0\ud30c \ub77c\uc774\ub529",
+      "description": "\u25fe\ufe0f 11\uc6d4 16\uc77c \ud6c8\ub828\uc0c1\ud0dc \u25fe\ufe0f\n\ud83d\ude10 \uc800\ubd80\ud558 \ud14c\uc774\ud37c\ub9c1 (183)\n\ud83c\udf33 \uccb4\ub825 26, \ud53c\ub85c 28, \uade0\ud615 -2\n\n\u25fe\ufe0f \ub77c\uc774\ub529 \uc885\ud569 \u25fe\ufe0f\n\ud83d\udc37 \ud15c\ud3ec \ud6c8\ub828 (\uc911\uc800\uac15\ub3c4)\n\ud83c\udff7\ufe0f \uba58\ud0c8 \ubc0f \uc9d1\uc911\ub825 \uac15\ud654, \uafb8\uc900\ud55c \ud398\uc774\uc2a4, \uc131\ucde8\uac10\n\ud83d\udeb5 \ud3c9\uc9c0 \ucf54\uc2a4 \ub77c\uc774\ub529\n\ud83d\udcca R\ud30c\uc6cc 157, \uac15\ub3c4 0.81, \ud6c8\ub828\ub7c9 51\n\u2728 \ud68c\ubcf5\uc2dc\uac04 15 \uc2dc\uac04\n\n\u25fe\ufe0f \ud53c\ud06c\ud30c\uc6cc \ubd84\uc11d \u25fe\ufe0f\n\u26a1 15\ucd08 256w (57%) \n\u26a1 1\ubd84 232w (66%) \n\u26a1 2\ubd84 215w (73%) \n\u26a1 5\ubd84 186w (81%) \n\u26a1 10\ubd84 173w (91%) \n\u26a1 20\ubd84 162w (91%) \n\u26a1 40\ubd84 146w (90%) \n\n\u25fe\ufe0f \ud30c\uc6cc\uc601\uc5ed \ubd84\uc11d \u25fe\ufe0f\n\u26aa 1\uc601\uc5ed 15% (-9%)\n\ud83d\udd35 2\uc601\uc5ed 29% (-21%)\n\ud83d\udfe2 3\uc601\uc5ed 28% (+16%)\n\ud83d\udfe1 4\uc601\uc5ed 16% (+5%)\n\ud83d\udfe0 5\uc601\uc5ed 8% (+7%)\n\ud83d\udd34 6\uc601\uc5ed 3% (+2%)\n\u2b55 7\uc601\uc5ed 1% (+1%)\n\n\u25fe\ufe0f \uc2ec\ubc15\uc601\uc5ed \ubd84\uc11d \u25fe\ufe0f\n\ud83e\udd0d 1\uc601\uc5ed 0%\n\ud83d\udc99 2\uc601\uc5ed 1%\n\ud83d\udc9a 3\uc601\uc5ed 14%\n\ud83d\udc9b 4\uc601\uc5ed 38%\n\ud83e\udde1 5\uc601\uc5ed 46%\n\n\u25fe\ufe0f \ubb34\uc0b0\uc18c\uc6b4\ub3d9 \ubd84\uc11d \u25fe\ufe0f\n\ud83d\udd6f\ufe0f \uc131\ub0e5\uac1c\ube44 1.8\n\u231b \ubb34\uc0b0\uc18c \uc9c0\uc18d\uc2dc\uac04 7m 14s\n\ud83c\udfcb \ubb34\uc0b0\uc18c \uc6b4\ub3d9\ub7c9 12.4kJ\n\ud83d\udd0b \ubb34\uc0b0\uc18c \ucd5c\ub300\ubc29\uc804 29.2%\n\n\u25fe\ufe0f \uc5d0\ub108\uc9c0 \ub300\uc0ac \ubd84\uc11d \u25fe\ufe0f\n\ud83d\udd25 \uc18c\ubaa8\uce7c\ub85c\ub9ac 397\n\ud83e\uddc0 \uc9c0\ubc29\uc5f0\uc18c 37.4%\n\ud83c\udf5e \ud0c4\uc218\ud654\ubb3c\uc5f0\uc18c 62.6%\n\u23f2 \uc9c0\ubc29\uac10\ub7c9\ucd94\uc815 16g\n\n\n\n\ud83d\udd17https://www.strava.com/clubs/riduck\n\ud83d\udd17https://riduck.com",
+      "type": "Ride",
+      "indoor": false,
+      "moving_seconds": 2807,
+      "elapsed_seconds": 2846,
+      "distance_km": 21.45,
+      "avg_speed_kph": 27.45,
+      "max_speed_kph": 37.15,
+      "elevation_m": 26.0,
+      "avg_power": 142.0,
+      "normalized_power": 156.0,
+      "avg_hr": 159.0,
+      "max_hr": 177.0,
+      "avg_cadence": 83.9,
+      "intensity_pct": 78.0,
+      "variability_index": 1.099,
+      "decoupling_pct": -16.03,
+      "efficiency_factor": 0.981,
+      "tss": 47.0,
+      "calories": 397,
+      "power_zone_times": [
+        {
+          "id": "Z1",
+          "secs": 594
+        },
+        {
+          "id": "Z2",
+          "secs": 846
+        },
+        {
+          "id": "Z3",
+          "secs": 744
+        },
+        {
+          "id": "Z4",
+          "secs": 426
+        },
+        {
+          "id": "Z5",
+          "secs": 137
+        },
+        {
+          "id": "Z6",
+          "secs": 54
+        },
+        {
+          "id": "Z7",
+          "secs": 6
+        },
+        {
+          "id": "SS",
+          "secs": 491
+        }
+      ],
+      "hr_zone_times": [
+        228,
+        447,
+        452,
+        1244,
+        394,
+        42,
+        0
+      ],
+      "interval_summary": [
+        "1x 51s 234w",
+        "1x 96s 191w"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "start_datetime": "2026-11-12T13:39:27",
+      "id": "i210755725",
+      "name": "Ride",
+      "type": "Ride",
       "indoor": false,
       "moving_seconds": 0,
-      "elapsed_seconds": 0,
+      "elapsed_seconds": 2,
       "distance_km": 0.0,
       "elevation_m": 0.0,
       "tss": 0.0
