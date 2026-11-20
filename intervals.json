@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-11-20T21:52:19.390951",
+  "generated_at": "2026-11-21T05:47:50.526647",
   "schema_version": 1,
   "version": "3.123-HH",
   "script_hash": "a3b8d82fba7f",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i206627960",
-      "date": "2026-11-06",
-      "start_datetime": "2026-11-06T23:15:39",
-      "type": "VirtualRide",
-      "name": "Zwift - Foundation",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 5441,
-          "moving_secs": 5441,
-          "start_secs": 0,
-          "end_secs": 5441,
-          "avg_power": 124,
-          "max_power": 217,
-          "avg_hr": 126,
-          "max_hr": 138,
-          "min_hr": 80,
-          "avg_cadence": 82.248566,
-          "zone": 2,
-          "w_bal_start": 16000,
-          "w_bal_end": 15984,
-          "training_load": 61.53102
-        }
-      ],
-      "zone_basis": "power"
-    },
     {
       "activity_id": "i206633791",
       "date": "2026-11-07",
@@ -613,6 +585,34 @@
           "w_bal_start": 14618,
           "w_bal_end": 14852,
           "training_load": 4.0568557
+        }
+      ],
+      "zone_basis": "power"
+    },
+    {
+      "activity_id": "i212551842",
+      "date": "2026-11-21",
+      "start_datetime": "2026-11-21T00:36:50",
+      "type": "VirtualRide",
+      "name": "Zwift - Foundation",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4826,
+          "moving_secs": 4826,
+          "start_secs": 0,
+          "end_secs": 4826,
+          "avg_power": 124,
+          "max_power": 138,
+          "avg_hr": 134,
+          "max_hr": 142,
+          "min_hr": 97,
+          "avg_cadence": 82.85323,
+          "zone": 2,
+          "w_bal_start": 16000,
+          "w_bal_end": 16000,
+          "training_load": 53.987347
         }
       ],
       "zone_basis": "power"
